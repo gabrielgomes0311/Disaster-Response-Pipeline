@@ -10,12 +10,13 @@
 
 2. Install the libraries
 
-. pandas
-. numpy
-. sklearn
-. sqlalchemy
-. flask
-. plotly
+
+- pandas
+- numpy
+- sklearn
+- sqlalchemy
+- flask
+- plotly
 
 3. Clone the repository
 
